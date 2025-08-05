@@ -1,1 +1,2 @@
 fix bug in main branch
+fix bug 2 in main branch
